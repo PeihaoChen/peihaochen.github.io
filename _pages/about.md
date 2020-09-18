@@ -21,7 +21,7 @@ Conferences
   {% endfor %}
   </table>
   <a href="/conferences/">
-    <button class="btn btn--readmore">Read more <font size="1">>></font></button>
+    <!-- <button class="btn btn--readmore">Read more <font size="1">>></font></button> -->
   </a>
 </div>
 
@@ -41,7 +41,7 @@ Journals
   {% endfor %}
   </table>
    <a href="/journals/">
-    <button class="btn btn--readmore">Read more <font size="1">>></font></button>
+    <!-- <button class="btn btn--readmore">Read more <font size="1">>></font></button> -->
   </a>
 </div>
 
@@ -52,7 +52,7 @@ Journals
 </div>  -->
 
 
-Preprint Paper
+<!-- Preprint Paper
 ----------
 <div>
   <table>
@@ -60,5 +60,5 @@ Preprint Paper
     <tr>{% include publication.html %}</tr>
   {% endfor %}
   </table>
-</div>
+</div> -->
 

@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Conferences"
-    url: /conferences/
+  # - title: "Conferences"
+  #   url: /conferences/
 
-  - title: "Journals"
-    url: /journals/
+  # - title: "Journals"
+  #   url: /journals/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -22,6 +22,6 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
