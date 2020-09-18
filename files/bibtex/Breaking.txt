@@ -1,0 +1,12 @@
+@ARTICLE{8737877,
+author={R. {Zeng} and C. {Gan} and P. {Chen} and W. {Huang} and Q. {Wu} and M. {Tan}},
+journal={IEEE Transactions on Image Processing},
+title={Breaking Winner-Takes-All: Iterative-Winners-Out Networks for Weakly Supervised Temporal Action Localization},
+year={2019},
+volume={28},
+number={12},
+pages={5797-5808},
+keywords={image annotation;image motion analysis;image segmentation;iterative methods;supervised learning;video signal processing;iterative-winners-out networks;weakly supervised temporal action localization;video-level action labels;adversarial erasing strategy;weakly supervised semantic segmentation;iterative training strategy;discriminative action instances;winner-takes-all phenomenon;target action instances;class-discriminative localization technique;end-to-end network;video label;frame-level supervisions;video-level supervision;iterative-winners-out;discriminative video segments;unconstrained Web videos;ActivityNet1.3;THUMOS14;frame-level annotations;Videos;Training;Proposals;Image segmentation;Correlation;Object detection;Semantics;Weakly supervised learning;action localization;winners-out;untrimmed video},
+doi={10.1109/TIP.2019.2922108},
+ISSN={},
+month={Dec},}

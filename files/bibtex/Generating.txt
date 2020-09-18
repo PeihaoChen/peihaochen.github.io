@@ -1,0 +1,6 @@
+@Article{chen2020regnet,
+  author  = {Peihao Chen, Yang Zhang, Hongdong Xiao, Deng Huang, Mingkui Tan, and Chuang Gan},
+  title   = {Generating Visually Aligned Sound from Videos},
+  journal = {TIP},
+  year    = {2020},
+}

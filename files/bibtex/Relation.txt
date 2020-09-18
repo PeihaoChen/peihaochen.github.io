@@ -1,0 +1,8 @@
+@ARTICLE{8933113,
+  author={P. {Chen} and C. {Gan} and G. {Shen} and W. {Huang} and R. {Zeng} and M. {Tan}},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Relation Attention for Temporal Action Localization}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={1-1},}

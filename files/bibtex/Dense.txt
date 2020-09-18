@@ -1,0 +1,7 @@
+@InProceedings{Zeng_2020_CVPR,
+author = {Zeng, Runhao and Xu, Haoming and Huang, Wenbing and Chen, Peihao and Tan, Mingkui and Gan, Chuang},
+title = {Dense Regression Network for Video Grounding},
+booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2020}
+}

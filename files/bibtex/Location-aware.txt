@@ -1,0 +1,11 @@
+@inproceedings{huang2020LGCN,
+  author    = {Huang, Deng and
+               Chen, Peihao and
+               Zeng, Runhao and
+               Du, Qing and
+               Tan, Mingkui and
+               Gan, Chuang},
+  title     = {{Location-aware Graph Convolutional Networks for Video Question Answering}},
+  booktitle = {AAAI},
+  year      = {2020},
+}
