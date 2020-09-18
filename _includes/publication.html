@@ -1,0 +1,75 @@
+{% include base_path %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if post.collection == 'publications' or post.collection == 'workshops' or post.collection == 'conferences' or post.collection == 'journals' or post.collection == 'conferences_main' or post.collection == 'journals_main' or post.collection == 'preprints'%}
+            <td>
+              {% if post.uri contains "://" %}
+                <a href="{{post.uri}}"><img class="table_entry" src="{{post.thumbnail | prepend: "/files/thumbnails/" }}"></a>
+              {% else %}
+                {% if post.uri %}
+                  <a href="{{post.uri | prepend: "/files/publications/" }}"><img class="table_entry" src="{{post.thumbnail | prepend: "/files/thumbnails/" }}"></a>
+                  <!-- <a href="{{post.uri}}"><img class="table_entry" src="{{post.thumbnail | prepend: "/files/thumbnails/" }}"></a> -->
+                {% else %}
+                  <img class="table_entry" src="{{post.thumbnail | prepend: "/files/thumbnails/" }}">
+                {% endif %}
+              {% endif %}
+            </td>
+            <td>
+              <div class='conf_title'>{{post.title}}</div><br>
+
+              <div class='conf_authors'>{{post.authors}}</div><br>
+
+              <div class='conf_venue'>
+                {% if post.venue%}{{post.venue}}{% endif %}
+                {% if post.date %}{{ post.date | default: "1900-01-01" | date: "%Y" }}{% endif %}
+
+                <!-- {% if post.city %}, {{post.city}}{% endif %}
+                {% if post.state %}, {{post.state}}{% endif %} -->
+
+              </div><br>
+              {% if post.uri contains "://" %}
+                <a class="button pdf" href="{{post.uri}}" rel="permalink">Pdf</a>
+              {% else %}
+                {% if post.uri %}
+                  <a class="button pdf" href="{{post.uri | prepend: "/files/publications/"}}" rel="permalink">Pdf</a>
+                {% endif %}
+              {% endif %}
+
+              {% if post.arxiv %}
+                <a class="button arxiv " href="{{post.arxiv}}" rel="permalink">ArXiv</a>
+              {% endif %}
+
+              {% if post.bibtex %}
+                <a class="button bibtex" href="{{post.bibtex | prepend: "/files/bibtex/"}}" rel="permalink">BibTex</a>
+              {% endif %}
+
+              {% if post.project %}
+                <a class="button project" href="{{post.project}}" rel="permalink">Project Page</a>
+              {% endif %}
+
+              {% if post.source and post.source contains "://" %}
+                <a class="button source" href="{{post.source}}" rel="permalink">Code</a>
+              {% else %} 
+                {% if post.source %}
+                  <a class="button source" href="{{post.source | prepend: "/files/sourcecode/"}}" rel="permalink">Code</a>
+                {% endif %}
+              {% endif %}
+
+              {% if post.data %}
+                <a class="button data" href="{{post.data}}" rel="permalink">Data</a>
+              {% endif %}
+
+              {% if post.poster%}
+                <a class="button poster" href="{{post.poster | prepend: "/files/posters/"}}" rel="permalink">Poster</a>
+              {% endif %}
+              
+              {% if post.video %}
+                <a class="button video" href="{{post.video}}" rel="permalink">Video</a>
+              {% endif %}
+            </td>
+
+
+        {% endif %}
+  </article>
+</div>

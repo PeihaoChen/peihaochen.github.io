@@ -1,0 +1,12 @@
+@INPROCEEDINGS{8477722, 
+author={Y. Chen and J. Zhong and M. Tan}, 
+booktitle={2018 IEEE Congress on Evolutionary Computation (CEC)}, 
+title={A Fast Memetic Multi-Objective Differential Evolution for Multi-Tasking Optimization}, 
+year={2018}, 
+volume={}, 
+number={}, 
+pages={1-8}, 
+keywords={evolutionary computation;search problems;multiobjective differential evolution;CEC 2017 multitasking optimization competition;fast memetic multiobjective;efficient memetic evolutionary multitasking optimization framework;multitasking multiobjective evolutionary algorithm;MO-MFEA;MM-DE;Optimization;Task analysis;Memetics;Sociology;Statistics;Search problems;Evolutionary computation;Evolutionary Algorithm;Memetic Algorithm;Local Search;Multi-tasking Optimization;Multi-objective Optimization;Differential Evolution}, 
+doi={10.1109/CEC.2018.8477722}, 
+ISSN={}, 
+month={July},}
