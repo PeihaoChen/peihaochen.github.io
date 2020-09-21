@@ -1,0 +1,7 @@
+@InProceedings{Gan_2019_ICCV,
+author = {Chuang Gan, Hang Zhao, Peihao Chen, David Cox, Antonio Torralba},
+title = {Self-supervised Moving Vehicle Tracking with Stereo Sound},
+booktitle = {International Conference on Computer Vision (ICCV)},
+month = {October},
+year = {2019}
+}

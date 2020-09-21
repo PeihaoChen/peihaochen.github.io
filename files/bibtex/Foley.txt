@@ -1,0 +1,7 @@
+@InProceedings{Gan_2020_ECCV,
+author = {Chuang Gan, Deng Huang, Peihao Chen, Joshua B. Tenenbaum, Antonio Torralba},
+title = {Foley Music: Learning to Generate Music from Videos},
+booktitle = {European Conference on Computer Vision (ECCV)},
+month = {August},
+year = {2020}
+}
