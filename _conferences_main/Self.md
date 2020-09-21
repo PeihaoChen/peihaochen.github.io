@@ -14,8 +14,8 @@ bibtex: Self.txt
 uri: Self.pdf
 supp: 
 arxiv: 
-project: 
-source: http://sound-track.csail.mit.edu/
+project: http://sound-track.csail.mit.edu/
+source: 
 poster: 
 data:
 ---

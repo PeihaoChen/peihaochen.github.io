@@ -14,8 +14,8 @@ bibtex: Foley.txt
 uri: Foley.pdf
 supp: 
 arxiv: 
-project: 
-source: http://foley-music.csail.mit.edu/
+project: http://foley-music.csail.mit.edu/
+source:
 poster: 
 data:
 ---

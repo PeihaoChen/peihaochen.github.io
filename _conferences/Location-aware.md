@@ -14,7 +14,7 @@ bibtex: Location-aware.txt
 uri: Location-aware.pdf
 arxiv: 
 project: 
-source:
+source: https://github.com/SunDoge/L-GCN
 poster: 
 data:
 ---
