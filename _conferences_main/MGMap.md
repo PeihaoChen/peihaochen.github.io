@@ -7,7 +7,7 @@ year: "2022"
 venue: "NeurIPS"
 city: 
 state: ""
-thumbnail: "MGMap.jpg"
+thumbnail: "MGMap.gif"
 teaser : 
 authors: "Peihao Chen, Dongyu Ji, Kunyang Lin, Runhao Zeng, Thomas H Li, Mingkui Tan, Chuang Gan"
 bibtex: MGMap.txt
