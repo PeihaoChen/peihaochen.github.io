@@ -2,7 +2,7 @@
 title: "Weakly-Supervised Multi-Granularity Map Learning for Vision-and-Language Navigation"
 collection: conferences
 permalink: /publication/MGMap
-date:
+date: 2022-10-01
 year: "2022"
 venue: "NeurIPS"
 city: 
