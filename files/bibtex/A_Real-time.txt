@@ -1,9 +1,0 @@
-@ARTICLE{9051710, 
-  author={K. {Liu} and W. {Liu} and H. {Ma} and M. {Tan} and C. {Gan}},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  title={A Real-time Action Representation with Temporal Encoding and Deep Compression}, 
-  year={2020}, 
-  volume={}, 
-  number={}, 
-  pages={1-1},
-}

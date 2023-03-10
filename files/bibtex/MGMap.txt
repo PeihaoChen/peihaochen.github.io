@@ -1,0 +1,6 @@
+@article{chen2022weakly,
+  title={Weakly-supervised multi-granularity map learning for vision-and-language navigation},
+  author={Chen, Peihao and Ji, Dongyu and Lin, Kunyang and Zeng, Runhao and Li, Thomas H and Tan, Mingkui and Gan, Chuang},
+  booktitle={{NeurIPS}},
+  year={2022}
+}
