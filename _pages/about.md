@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 <br />
-　　I am a Ph.D. candidate with the School of Software Engineering at South China University of Technology. I also received my bachelor degree in the School of Automation Science and Engineering from the same university in 2018. My research interests include multimedia understanding and embodied AI. 
-<!-- I served as the reviewer for several top-tier journals and conferences, such as TIP, TNNLS, NeurIPS, AAAI, UAI, MICCAI. -->
+　　I am a Ph.D. candidate in the School of Software Engineering at South China University of Technology, advised by Associate Prof. [Mingkui Tan](https://tanmingkui.github.io/) and Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/).
+    My research interests include multimedia understanding and embodied AI. 
 
 
 # 🗞️News
