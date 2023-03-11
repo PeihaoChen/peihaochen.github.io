@@ -1,0 +1,6 @@
+@InProceedings{chen2020RSPNet,
+author = {Peihao Chen, Deng Huang, Dongliang He, Xiang Long, Runhao Zeng, Shilei Wen, Mingkui Tan, and Chuang Gan},
+title = {RSPNet: Relative Speed Perception for Unsupervised Video Representation Learning},
+booktitle = {The AAAI Conference on Artificial Intelligence (AAAI)},
+year = {2021}
+}
