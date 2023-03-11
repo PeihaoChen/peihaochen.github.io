@@ -1,0 +1,13 @@
+  @inproceedings{chen2022active,
+  title={Learning Active Camera for Multi-Object Navigation},
+  author={Peihao Chen and
+          Dongyu Ji and
+          Kunyang Lin and
+          Weiwen Hu and
+          Wenbing Huang and
+          Thomas H. Li and
+          Mingkui Tan and
+          Chuang Gan},
+  booktitle={Neural Information Processing Systems (NeurIPS)},
+  year={2022},
+}
