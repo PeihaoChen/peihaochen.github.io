@@ -1,0 +1,6 @@
+  @inproceedings{sun2023MME,
+  title={Masked Motion Encoding for Self-Supervised Video Representation Learning},
+  author={Xinyu Sun, Peihao Chen, Liangwei Chen, Changhao Li, Thomas H Li, Mingkui Tan, Chuang Gan},
+  booktitle={The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)},
+  year={2023},
+}
