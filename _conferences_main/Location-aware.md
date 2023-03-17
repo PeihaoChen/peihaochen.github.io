@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Location-aware.png"
 teaser :
-authors: "Deng Huang, Peihao Chen, Runhao Zeng, Qing Du, Mingkui Tan, Chuang Gan"
+authors: "Deng Huang*, Peihao Chen*, Runhao Zeng, Qing Du, Mingkui Tan, Chuang Gan"
 bibtex: Location-aware.txt
 uri: Location-aware.pdf
 arxiv: 
