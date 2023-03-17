@@ -1,6 +1,6 @@
 ﻿---
 permalink: /
-title: "👋About me"
+title: "👋 About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <br />
-I am a Ph.D. candidate in the School of Software Engineering at South China University of Technology, advised by Associate Prof. [Mingkui Tan](https://tanmingkui.github.io/) and Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/).
+I am a Ph.D. candidate in the School of Software Engineering at South China University of Technology, advised by Prof. [Mingkui Tan](https://tanmingkui.github.io/) and Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/).
 
 * My primary research interests are in <b>Visual Understanding</b> and mainly focus on:
   * <b>Video Understanding</b>: self-supervised video representation learning, temporal action localization;
@@ -22,7 +22,7 @@ I am a Ph.D. candidate in the School of Software Engineering at South China Univ
     * **Embodied AI**: vision-and-language navigation; -->
 
 
-# 🗞️News
+# 🗞️ News
 <div style="overflow-y: scroll; height: 150px;">
   <ul>
     <li>2023.02: One paper is accepted by <b>CVPR 2023</b>!</li>
@@ -86,7 +86,7 @@ Journals
 </div> -->
 
 
-# 🏆Award
+# 🏆 Award
 * <b>2020:</b> The Principle's Scholarship of SCUT
 * <b>2018:</b> The First Prize Scholarship of SCUT
 * <b>2017:</b> The Second Prize of the NXP Cup National University Students Intelligent Car Race
