@@ -10,7 +10,11 @@ redirect_from:
 
 <br />
 　　I am a Ph.D. candidate in the School of Software Engineering at South China University of Technology, advised by Associate Prof. [Mingkui Tan](https://tanmingkui.github.io/) and Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/).
-    My research interests include multimedia understanding and embodied AI. 
+   
+    My primary research interests are in <b>Visual Understanding</b> and mainly focus on:
+    * <b>Video Understanding<\b>: self-supervised video representation learning, temporal action localization;
+    * <b>Embodied AI<\b>: vision-and-language navigation;
+
 
 
 # 🗞️News
