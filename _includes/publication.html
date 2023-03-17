@@ -8,7 +8,7 @@
                 <a href="{{post.uri}}"><img class="table_entry" src="{{post.thumbnail | prepend: "/files/thumbnails/" }}"></a>
               {% else %}
                 {% if post.uri %}
-                  <a href="{{post.uri | prepend: "/files/publications/" }}"><img class="table_entry" src="{{post.thumbnail | prepend: "/files/thumbnails/" }}" alt="GIF animation"></a>
+                  <a href="{{post.uri | prepend: "/files/publications/" }}"><img class="table_entry" src="{{post.thumbnail | prepend: "/files/thumbnails/" }}" width="200" height="150"></a>
                   <!-- <a href="{{post.uri}}"><img class="table_entry" src="{{post.thumbnail | prepend: "/files/thumbnails/" }}"></a> -->
                 {% else %}
                   <img class="table_entry" src="{{post.thumbnail | prepend: "/files/thumbnails/" }}">
