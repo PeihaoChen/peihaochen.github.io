@@ -24,6 +24,8 @@
                 {% if post.venue%}{{post.venue}}{% endif %}
                 {% if post.date %}{{ post.date | default: "1900-01-01" | date: "%Y" }}{% endif %}
                 {% if post.spotlight == True %}<span style="color:red; font-weight:bold;">(Spotlight)</span>{% endif %}
+                {% if post.oral == True %}<span style="color:red; font-weight:bold;">(Oral)</span>{% endif %}
+
 
                 <!-- {% if post.city %}, {{post.city}}{% endif %}
                 {% if post.state %}, {{post.state}}{% endif %} -->

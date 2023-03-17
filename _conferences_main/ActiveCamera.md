@@ -5,6 +5,7 @@ permalink: /publication/ActiveCamera
 date: 2022-10-01
 year: "2022"
 venue: "NeurIPS"
+spotlight: True
 city: 
 state: ""
 thumbnail: "ActiveCamera.gif"
