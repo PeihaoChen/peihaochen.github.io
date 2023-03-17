@@ -14,13 +14,7 @@ I am a Ph.D. candidate in the School of Software Engineering at South China Univ
 * My primary research interests are in <b>Visual Understanding</b> and mainly focus on:
   * <b>Video Understanding</b>: self-supervised video representation learning, temporal action localization;
   * <b>Embodied AI</b>: vision-and-language navigation;
-
-
-<!-- My primary research interests are in **Visual Understanding** and mainly focus on:
-
-    * **Video Understanding**: self-supervised video representation learning, temporal action localization;
-    * **Embodied AI**: vision-and-language navigation; -->
-
+<br>
 
 # 🗞️ News
 <div style="overflow-y: scroll; height: 150px;">
@@ -85,6 +79,7 @@ Journals
   </table>
 </div> -->
 
+<br>
 
 # 🏆 Award
 * <b>2020:</b> The Principle's Scholarship of SCUT
