@@ -1,11 +1,11 @@
 {% include base_path %}
 
-<style>
+<!-- <style>
   .table_entry {
     width: 2000px;
     height: 2000px;
   }
-</style>
+</style> -->
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -15,7 +15,7 @@
                 <a href="{{post.uri}}"><img class="table_entry" src="{{post.thumbnail | prepend: "/files/thumbnails/" }}"></a>
               {% else %} -->
                 {% if post.uri %}
-                  <a href="{{post.uri | prepend: "/files/publications/" }}"><img class="table_entry" src="{{post.thumbnail | prepend: "/files/thumbnails/" }}"></a>
+                  <a href="{{post.uri | prepend: "/files/publications/" }}"><img class="table_entry" src="{{post.thumbnail | prepend: "/files/thumbnails/" }}" style="width: 100px; height: 100px;"></a>
                   <!-- <a href="{{post.uri}}"><img class="table_entry" src="{{post.thumbnail | prepend: "/files/thumbnails/" }}"></a> -->
                 <!-- {% else %}
                   <img class="table_entry" src="{{post.thumbnail | prepend: "/files/thumbnails/" }}"> -->
