@@ -11,14 +11,19 @@ redirect_from:
 <br />
 I am a Ph.D. candidate in the School of Software Engineering at South China University of Technology, advised by Associate Prof. [Mingkui Tan](https://tanmingkui.github.io/) and Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/).
 
-My primary research interests are in <b>Visual Understanding</b> and mainly focus on:
+<!-- * My primary research interests are in <b>Visual Understanding</b> and mainly focus on:
     * <b>Video Understanding</b>: self-supervised video representation learning, temporal action localization;
-    * <b>Embodied AI</b>: vision-and-language navigation;
+    * <b>Embodied AI</b>: vision-and-language navigation; -->
 
+
+My primary research interests are in **Visual Understanding** and mainly focus on:
+
+    * **Video Understanding**: self-supervised video representation learning, temporal action localization;
+    * **Embodied AI**: vision-and-language navigation;
 
 
 # 🗞️News
-<div style="overflow-y: scroll; height: 295px;">
+<div style="overflow-y: scroll; height: 150px;">
   <ul>
     <li>2023.02: Our paper is accepted by <b>CVPR 2023</b>.</li>
     <li>2022.11: Two NeurIPS 2022 papers are selected as <b>Spotlight</b>.</li>
