@@ -15,7 +15,7 @@ bibtex: MGMap.txt
 uri: MGMap.pdf
 supp:
 arxiv: 
-project: project/MGMap
+project: projects/MGMap
 source: https://github.com/PeihaoChen/WS-MGMap
 poster: 
 data:
