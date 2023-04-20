@@ -15,7 +15,7 @@ bibtex: MGMap.txt
 uri: MGMap.pdf
 supp:
 arxiv: 
-project: _pages\project_page\mutli-granularity-map.html
+project: project/MGMap
 source: https://github.com/PeihaoChen/WS-MGMap
 poster: 
 data:
