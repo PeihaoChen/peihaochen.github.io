@@ -9,16 +9,22 @@ redirect_from:
 ---
 
 <br />
-I am a Ph.D. candidate in the School of Software Engineering at South China University of Technology, advised by Prof. [Mingkui Tan](https://tanmingkui.github.io/) and Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/).
+I am a final-year Ph.D. candidate in the School of Software Engineering at South China University of Technology, advised by Prof. [Mingkui Tan](https://tanmingkui.github.io/) and Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/). I engage in developing an agent that can understand and interact with the multi-modal world. Toward this goal, my research mainly focus on 
 
-* My primary research interests are in <b>Visual Understanding</b> and mainly focus on:
+* <b>Embodied AI</b>: Visual Navigation; Robot Manipulation
+* <b>Multi-Modal Video Understanding</b>: Self-Supervised Video Representation Learning; Temporal Action Localization; Visually-Aligned Sound Generation
+
+<!-- * My primary research interests are in <b>Visual Understanding</b> and mainly focus on:
   * <b>Video Understanding</b>: self-supervised video representation learning, temporal action localization;
-  * <b>Embodied AI</b>: vision-and-language navigation;
+  * <b>Embodied AI</b>: vision-and-language navigation; -->
+
+<span style="color: red;">I am currently seeking opportunities in the field of embodied AI or multi-modal video understanding. If you have a suitable position available, please feel free to contact me.</span> 
 <br>
 
 # 🗞️ News
 <div style="overflow-y: scroll; height: 150px;">
   <ul>
+    <li>2023.06: Happy to join MIT-IBM Watson Lab for intership!</li>
     <li>2023.02: One paper is accepted by <b>CVPR 2023</b>!</li>
     <li>2023.02: The code for <b>MGMap</b> and <b>ActiveCamera</b> is now available.</li>
     <li>2022.11: Two NeurIPS 2022 papers are selected as <b>Spotlight</b>!</li>
