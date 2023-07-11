@@ -18,7 +18,7 @@ I am a final-year Ph.D. candidate in the School of Software Engineering at South
   * <b>Video Understanding</b>: self-supervised video representation learning, temporal action localization;
   * <b>Embodied AI</b>: vision-and-language navigation; -->
 
-<span style="color: red;">I am currently seeking opportunities in the field of embodied AI or multi-modal video understanding. If you have a suitable position available, please feel free to contact me.</span> 
+I am currently <span style="color: red;">seeking opportunities in a company</span> specializing in embodied AI or multi-modal video understanding. If you have a suitable position available, please feel free to contact me. 
 <br>
 
 # 🗞️ News
