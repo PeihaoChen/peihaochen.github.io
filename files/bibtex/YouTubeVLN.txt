@@ -1,0 +1,6 @@
+  @inproceedings{lin2023YoutubeVLN,
+  title={Learning Vision-and-Language Navigation from YouTube Videos},
+  author={Kunyang Lin, Peihao Chen, Diwei Huang, Thomas H. Li, Mingkui Tan, Chuang Gan},
+  booktitle={The IEEE / CVF International Conference on Computer Vision (ICCV)},
+  year={2023},
+}
