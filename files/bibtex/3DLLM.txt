@@ -1,6 +1,6 @@
   @inproceedings{hong3dllm,
   title={3D-LLM: Injecting the 3D World into Large Language Models},
   author={Yining Hong, Haoyu Zhen, Peihao Chen, Shuhong Zheng, Yilun Du, Zhenfang Chen, Chuang Gan},
-  booktitle={ArXiv},
+  booktitle={NeurIPS 2023},
   year={2023},
 }

@@ -1,0 +1,6 @@
+  @inproceedings{sun2023fgprompt,
+  title={FGPrompt: Fine-grained Goal Prompting for Image-goal Navigation},
+  author={Xinyu Sun, Peihao Chen, Jugang Fan, Jian Chen, Thomas H. Li, Mingkui Tan},
+  booktitle={NeurIPS 2023},
+  year={2023},
+}

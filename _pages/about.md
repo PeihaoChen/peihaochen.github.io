@@ -24,6 +24,7 @@ I am currently <span style="color: red;">seeking opportunities in a company</spa
 # 🗞️ News
 <div style="overflow-y: scroll; height: 150px;">
   <ul>
+    <li>2023.09: Two papers is accepted by <b>NeurIPS 2023</b> and one is seleceted as <b>Spotlight</b>!</li>
     <li>2023.07: One paper is accepted by <b>ICCV 2023</b>!</li>
     <li>2023.06: Happy to join MIT-IBM Watson Lab for intership!</li>
     <li>2023.02: One paper is accepted by <b>CVPR 2023</b>!</li>

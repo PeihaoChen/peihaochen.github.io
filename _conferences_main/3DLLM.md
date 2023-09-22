@@ -2,10 +2,10 @@
 title: "3D-LLM: Injecting the 3D World into Large Language Models"
 collection: conferences
 permalink: /publication/3DLLM
-date: 2023-07-10
+date: 2023-09-22
 year: "2023"
-venue: "ArXiv"
-spotlight:
+venue: "NeurIPS"
+spotlight: True
 city: 
 state: ""
 thumbnail: "3DLLM.gif"
