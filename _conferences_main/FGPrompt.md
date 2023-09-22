@@ -5,7 +5,7 @@ permalink: /publication/FGPrompt
 date: 2023-09-21
 year: "2023"
 venue: "NeurIPS"
-spotlight: True
+spotlight:
 city: 
 state: ""
 thumbnail: "FGPrompt.png"
