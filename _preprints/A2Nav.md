@@ -8,7 +8,7 @@ venue: "ArXiv"
 spotlight:
 city: 
 state: ""
-thumbnail: "A2Nav.gif"
+thumbnail: "A2Nav.png"
 teaser : 
 authors: "Peihao Chen, Xinyu Sun, Hongyan Zhi, Runhao Zeng, Thomas H. Li, Gaowen Liu, Mingkui Tan, Chuang Gan"
 bibtex:
