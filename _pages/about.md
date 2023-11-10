@@ -37,11 +37,11 @@ I am currently <span style="color: red;">seeking opportunities in a company</spa
 </div>
 <br>
 
-Pre-print
+Preprints
 ----------
 <div>
   <table>
-  {% for post in site.preprint reversed %}
+  {% for post in site.preprints_main reversed %}
     <tr>{% include publication.html %}</tr>
   {% endfor %}
   </table>
