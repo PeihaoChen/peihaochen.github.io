@@ -93,6 +93,7 @@ Journals
 <br>
 
 # 🏆 Award
+* <b>2023:</b> The Principle's Scholarship of SCUT
 * <b>2020:</b> The Principle's Scholarship of SCUT
 * <b>2018:</b> The First Prize Scholarship of SCUT
 * <b>2017:</b> The Second Prize of the NXP Cup National University Students Intelligent Car Race
