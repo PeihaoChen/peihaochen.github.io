@@ -37,6 +37,19 @@ I am currently <span style="color: red;">seeking opportunities in a company</spa
 </div>
 <br>
 
+Pre-print
+----------
+<div>
+  <table>
+  {% for post in site.preprint reversed %}
+    <tr>{% include publication.html %}</tr>
+  {% endfor %}
+  </table>
+  <a href="/conferences/">
+    <!-- <button class="btn btn--readmore">Read more <font size="1">>></font></button> -->
+  </a>
+</div>
+
 
 Conferences
 ----------
