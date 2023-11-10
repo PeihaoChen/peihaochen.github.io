@@ -1,0 +1,22 @@
+---
+title: "CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding"
+collection: conferences
+permalink: /publication/CoVLM
+date: 2023-10-22
+year: "2023"
+venue: "ArXiv"
+spotlight: True
+city: 
+state: ""
+thumbnail: "CoVLM.gif"
+teaser : 
+authors: "Junyan Li, Delin Chen, Yining Hong, Zhenfang Chen, Peihao Chen, Yikang Shen, Chuang Gan"
+bibtex: CoVLM.txt
+uri: CoVLM.pdf
+supp:
+arxiv: 
+project: https://vis-www.cs.umass.edu/CoVLM/
+source:
+poster: 
+data:
+---
