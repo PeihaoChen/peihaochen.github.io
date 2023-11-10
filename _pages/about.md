@@ -37,17 +37,14 @@ I am currently <span style="color: red;">seeking opportunities in a company</spa
 </div>
 <br>
 
-Preprints
+Preprint Paper
 ----------
 <div>
   <table>
-  {% for post in site.preprints_main reversed %}
+  {% for post in site.preprints reversed %}
     <tr>{% include publication.html %}</tr>
   {% endfor %}
   </table>
-  <a href="/conferences/">
-    <!-- <button class="btn btn--readmore">Read more <font size="1">>></font></button> -->
-  </a>
 </div>
 
 
@@ -91,15 +88,7 @@ Journals
 </div>  -->
 
 
-Preprint Paper
-----------
-<div>
-  <table>
-  {% for post in site.preprints reversed %}
-    <tr>{% include publication.html %}</tr>
-  {% endfor %}
-  </table>
-</div>
+
 
 <br>
 
