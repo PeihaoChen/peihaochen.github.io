@@ -10,7 +10,7 @@ city:
 state: ""
 thumbnail: "MGMap.gif"
 teaser : 
-authors: "Peihao Chen, Dongyu Ji, Kunyang Lin, Runhao Zeng, Thomas H Li, Mingkui Tan, Chuang Gan"
+authors: "Peihao Chen*, Dongyu Ji*, Kunyang Lin, Runhao Zeng, Thomas H Li, Mingkui Tan, Chuang Gan"
 bibtex: MGMap.txt
 uri: MGMap.pdf
 supp:
