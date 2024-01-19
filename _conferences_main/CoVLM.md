@@ -2,7 +2,7 @@
 title: "CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding"
 collection: conferences
 permalink: /publication/CoVLM
-date: 2023-11-06
+date: 2024-01-06
 year: "2024"
 venue: "ICLR"
 spotlight:
