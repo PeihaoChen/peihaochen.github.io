@@ -3,7 +3,7 @@ title: "CoVLM: Composing Visual Entities and Relationships in Large Language Mod
 collection: conferences
 permalink: /publication/CoVLM
 date: 2023-11-06
-year: "2023"
+year: "2024"
 venue: "ICLR"
 spotlight:
 city: 
