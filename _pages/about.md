@@ -24,7 +24,7 @@ I am currently <span style="color: red;">seeking opportunities in a company</spa
 # 🗞️ News
 <div style="overflow-y: scroll; height: 150px;">
   <ul>
-    <li>2024.01: One papers is accepted by <b>ICLR 2024</b><li>
+    <li>2024.01: One papers is accepted by <b>ICLR 2024</b></li>
     <li>2023.09: Two papers is accepted by <b>NeurIPS 2023</b> and one is seleceted as <b>Spotlight</b>!</li>
     <li>2023.09: Happy to join UMass Amherst as a visiting scholar working closely with Prof. Chuang Gan!</li>
     <li>2023.07: One paper is accepted by <b>ICCV 2023</b>!</li>
