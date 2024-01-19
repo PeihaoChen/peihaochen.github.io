@@ -8,7 +8,7 @@ venue: "ArXiv"
 spotlight:
 city: 
 state: ""
-thumbnail: "MultiPLY.png"
+thumbnail: "MultiPLY.gif"
 teaser : 
 authors: "Hong, Yining and Zheng, Zishuo and Chen, Peihao and Wang, Yian and Li, Junyan and Chen, Zhenfang and Gan, Chuang"
 bibtex: MultiPLY.txt
