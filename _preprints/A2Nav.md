@@ -4,7 +4,7 @@ collection: conferences
 permalink: /publication/A2Nav
 date: 2023-08-22
 year: "2023"
-venue: "ArXiv"
+venue: "NeurIPS Workshop"
 spotlight:
 city: 
 state: ""

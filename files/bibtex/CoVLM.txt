@@ -1,0 +1,6 @@
+@article{li2023covlm,
+  title={CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding},
+  author={Li, Junyan and Chen, Delin and Hong, Yining and Chen, Zhenfang and Chen, Peihao and Shen, Yikang and Gan, Chuang},
+  conference={ICLR},
+  year={2023}
+}

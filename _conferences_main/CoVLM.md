@@ -4,14 +4,14 @@ collection: conferences
 permalink: /publication/CoVLM
 date: 2023-11-06
 year: "2023"
-venue: "ArXiv"
+venue: "ICLR"
 spotlight:
 city: 
 state: ""
 thumbnail: "CoVLM.gif"
 teaser : 
 authors: "Junyan Li, Delin Chen, Yining Hong, Zhenfang Chen, Peihao Chen, Yikang Shen, Chuang Gan"
-bibtex:
+bibtex: CoVLM.txt
 uri: CoVLM.pdf
 supp:
 arxiv: 
