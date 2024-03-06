@@ -2,7 +2,7 @@
 title: "A2Nav: Action-Aware Zero-Shot Robot Navigation by Exploiting Vision-and-Language Ability of Foundation Models"
 collection: conferences
 permalink: /publication/A2Nav
-date: 2023-08-22
+date: 2023-12-22
 year: "2023"
 venue: "NeurIPS Workshop"
 spotlight:
