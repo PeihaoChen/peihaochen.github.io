@@ -2,7 +2,7 @@
 title: "MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World"
 collection: conferences
 permalink: /publication/MultiPLY
-date: 2024-01-06
+date: 2024-02-02
 year: "2024"
 venue: "CVPR"
 spotlight:
