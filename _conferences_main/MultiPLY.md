@@ -10,7 +10,7 @@ city:
 state: ""
 thumbnail: "MultiPLY.gif"
 teaser : 
-authors: "Hong, Yining and Zheng, Zishuo and Chen, Peihao and Wang, Yian and Li, Junyan and Chen, Zhenfang and Gan, Chuang"
+authors: "Yining Hong, Zishuo Zheng, Peihao Chen, Yian Wang, Junyan Li, Zhenfang Chen, Chuang Gan"
 bibtex: MultiPLY.txt
 uri: MultiPLY.pdf
 supp:
