@@ -1,0 +1,6 @@
+  @inproceedings{yangrila,
+  title={RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation},
+  author={Yining Hong, Haoyu Zhen, Peihao Chen, Shuhong Zheng, Yilun Du, Zhenfang Chen, Chuang Gan},
+  booktitle={CVPR 2024},
+  year={2024},
+}
