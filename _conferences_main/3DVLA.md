@@ -8,7 +8,7 @@ venue: "ICML"
 spotlight:
 city: 
 state: ""
-thumbnail: "3DVLA.mp4"
+thumbnail: "3DVLA.gif"
 teaser : 
 authors: "Haoyu Zhen, Xiaowen Qiu, Peihao Chen, Jincheng Yang, Xin Yan, Yilun Du, Yining Hong, Chuang Gan"
 bibtex: 3DVLA.txt
