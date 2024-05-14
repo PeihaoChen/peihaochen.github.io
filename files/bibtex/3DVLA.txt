@@ -1,0 +1,6 @@
+@inproceedings{zhen20243d,
+  title={3D-VLA: A 3D Vision-Language-Action Generative World Model},
+  author={Zhen, Haoyu and Qiu, Xiaowen and Chen, Peihao and Yang, Jincheng and Yan, Xin and Du, Yilun and Hong, Yining and Gan, Chuang},
+  journal={ICML 2024},
+  year={2024}
+}
