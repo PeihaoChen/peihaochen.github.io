@@ -24,7 +24,7 @@ I am currently <span style="color: red;">seeking opportunities in a company</spa
 # 🗞️ News
 <div style="overflow-y: scroll; height: 150px;">
   <ul>
-    <li>2024.02: 3D-VLA is accepted by <b>ICML 2024</b></li>
+    <li>2024.05: 3D-VLA is accepted by <b>ICML 2024</b></li>
     <li>2024.02: Two papers are accepted by <b>CVPR 2024</b></li>
     <li>2024.01: One papers is accepted by <b>ICLR 2024</b></li>
     <li>2023.09: Two papers are accepted by <b>NeurIPS 2023</b> and one is seleceted as <b>Spotlight</b>!</li>
