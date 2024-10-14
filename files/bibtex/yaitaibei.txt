@@ -1,0 +1,10 @@
+@inproceedings{jia2023yataibei,
+  title={Analysis and Prediction of New Energy Electric Vehicles (NEEVs) in China},
+  author={Yujie Jia, Xudong Shen, Shuhua Lin},
+  booktitle={Asia-Pacific Cup Organizing Committee},
+  year={2023},
+  month={December},
+  url={https://vis-www.cs.umass.edu/yataibei/},
+  pdf={https://vis-www.cs.umass.edu/yataibei/yataibei.pdf},
+  note={\url{https://github.com/UMass-Foundation-Model/yataibei}}
+}
