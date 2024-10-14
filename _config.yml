@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peihao Chen's Homepage"
+title                    : "Yujie Jia's Homepage"
 title_separator          : "-"
-name                     : &name "Peihao Chen"
+name                     : &name "Yujie Jia"
 description              : &description "personal description"
-url                      : https://peihaochen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yujie-jia.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "PeihaoChen/peihaochen.github.io"
+repository               : "yujie-jia/yujie-jia.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Peihao Chen"
+  name             : "Yujie Jia"
   avatar           : "profile.png"
-  bio              : Ph.D Candidate
+  bio              : Undergraduate
   location         : "Guangzhou, China"
   employer         : "South China University of Technology"
-  googlescholar    : "https://scholar.google.com/citations?user=KkpEXpsAAAAJ&hl=en"
-  email            : "phchencs@gmail.com"
+  googlescholar    : ""
+  email            : "2230481080@mail.scut.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "peihaochen"
+  github           : "yujie-jia"
   google_plus      :
   keybase          :
   instagram        :
