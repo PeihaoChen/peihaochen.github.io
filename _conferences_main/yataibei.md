@@ -8,7 +8,7 @@ venue: "Asia-Pacific Cup Organizing Committee"
 spotlight: False
 city: 
 state: ""
-thumbnail: "yataibei.gif"
+thumbnail: "yataibei.png"
 teaser : 
 authors: "Yujie Jia, Xudong Shen, Shuhua Lin"
 bibtex: yataibei.txt
