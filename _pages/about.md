@@ -9,10 +9,7 @@ redirect_from:
 ---
 
 <br />
-I am now a Research Scientist at [Robotics X Lab, Tencent](https://roboticsx.tencent.com/#/). Previously, I obtained my PhD degree from South China University of Technology, advised by Prof. [Mingkui Tan](https://tanmingkui.github.io/) and Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/)
-<!-- I am a final-year Ph.D. candidate in the School of Software Engineering at South China University of Technology, advised by Prof. [Mingkui Tan](https://tanmingkui.github.io/) and Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/).  -->
-
-I engage in developing an agent that can understand and interact with the multi-modal world. Toward this goal, my research mainly focus on:
+I am now a Research Scientist at [Robotics X Lab, Tencent](https://roboticsx.tencent.com/#/). Previously, I obtained my PhD degree from South China University of Technology, advised by Prof. [Mingkui Tan](https://tanmingkui.github.io/) and Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/). I engage in developing an agent that can understand and interact with the multi-modal world. Toward this goal, my research mainly focus on:
 
 * <b>Embodied AI</b>: Robot Manipulation; Visual Navigation
 * <b>Multi-Modal Video Understanding</b>: Self-Supervised Video Representation Learning; Temporal Action Localization; Visually-Aligned Sound Generation
