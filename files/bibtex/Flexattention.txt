@@ -1,0 +1,6 @@
+  @inproceedings{li2024flexattention,
+  title={FlexAttention for Efficient High-Resolution Vision-Language Models},
+  author={Junyan Li and Delin Chen and Tianle Cai and Peihao Chen and Yining Hong and Zhenfang Chen and Yikang Shen and Chuang Gan},
+  booktitle={ECCV 2024},
+  year={2024},
+}

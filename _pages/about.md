@@ -9,21 +9,27 @@ redirect_from:
 ---
 
 <br />
-I am a final-year Ph.D. candidate in the School of Software Engineering at South China University of Technology, advised by Prof. [Mingkui Tan](https://tanmingkui.github.io/) and Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/). I engage in developing an agent that can understand and interact with the multi-modal world. Toward this goal, my research mainly focus on:
+I am now a Research Scientist at [Robotics X Lab, Tencent](https://roboticsx.tencent.com/#/). Previously, I obtained my PhD degree from South China University of Technology, advised by Prof. [Mingkui Tan](https://tanmingkui.github.io/) and Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/)
+<!-- I am a final-year Ph.D. candidate in the School of Software Engineering at South China University of Technology, advised by Prof. [Mingkui Tan](https://tanmingkui.github.io/) and Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/).  -->
 
-* <b>Embodied AI</b>: Visual Navigation; Robot Manipulation
+I engage in developing an agent that can understand and interact with the multi-modal world. Toward this goal, my research mainly focus on:
+
+* <b>Embodied AI</b>: Robot Manipulation; Visual Navigation
 * <b>Multi-Modal Video Understanding</b>: Self-Supervised Video Representation Learning; Temporal Action Localization; Visually-Aligned Sound Generation
 
 <!-- * My primary research interests are in <b>Visual Understanding</b> and mainly focus on:
   * <b>Video Understanding</b>: self-supervised video representation learning, temporal action localization;
   * <b>Embodied AI</b>: vision-and-language navigation; -->
 
-I am currently <span style="color: red;">seeking opportunities in a company</span> specializing in embodied AI or multi-modal video understanding. If you have a suitable position available, please feel free to contact me. 
+<!-- I am currently <span style="color: red;">seeking opportunities in a company</span> specializing in embodied AI or multi-modal video understanding. If you have a suitable position available, please feel free to contact me.  -->
 <br>
 
 # 🗞️ News
 <div style="overflow-y: scroll; height: 150px;">
   <ul>
+    <li>2024.11: One paper about TTA for Navigation is accepted by <b>TMM</b></li>
+    <li>2024.09: FlexAttention is accepted by <b>ECCV 2024</b></li>
+    <li>2024.07: Happy to start my new journey at <b>Robotics X Lab</b></li>
     <li>2024.05: 3D-VLA is accepted by <b>ICML 2024</b></li>
     <li>2024.02: Two papers are accepted by <b>CVPR 2024</b></li>
     <li>2024.01: One papers is accepted by <b>ICLR 2024</b></li>
