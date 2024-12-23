@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Peihao Chen"
   avatar           : "profile.png"
-  bio              : Ph.D Candidate
-  location         : "Guangzhou, China"
-  employer         : "South China University of Technology"
+  bio              : Researcher
+  location         : "Shenzhen, China"
+  employer         : "Robotics X Lab, Tencent"
   googlescholar    : "https://scholar.google.com/citations?user=KkpEXpsAAAAJ&hl=en"
   email            : "phchencs@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
