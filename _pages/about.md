@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 <br />
+Hell,我是贾钰杰，很高兴认识你。
 I am a third-year undergraduate student in the School of Software Engineering at South China University of Technology. I engage in developing an agent that can understand and interact with the multi-modal world. Toward this goal, my research mainly focus on:
 
 * <b>Embodied AI</b>: Visual Navigation; Dexterous manipulation; 
