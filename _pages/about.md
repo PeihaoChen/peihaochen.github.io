@@ -24,6 +24,7 @@ I am now a Researcher at [Robotics X Lab, Tencent](https://roboticsx.tencent.com
 # 🗞️ News
 <div style="overflow-y: scroll; height: 150px;">
   <ul>
+    <li>2025.02: Two papers are accepted by <b>CVPR 2025</b></li>
     <li>2024.11: One paper about TTA for Navigation is accepted by <b>TMM</b></li>
     <li>2024.09: FlexAttention is accepted by <b>ECCV 2024</b></li>
     <li>2024.07: Happy to start my new journey at <b>Robotics X Lab</b></li>
